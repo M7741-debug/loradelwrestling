@@ -1,0 +1,90 @@
+/* Stile base per L'Ora del Wrestling */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #1b1b1b;
+  color: #f2f2f2;
+}
+
+header {
+  background-color: #000000;
+  padding: 1rem;
+  text-align: center;
+  border-bottom: 3px solid #ffcc00;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2em;
+  color: #ffcc00;
+}
+
+nav {
+  margin-top: 1rem;
+}
+
+nav a {
+  color: #f2f2f2;
+  text-decoration: none;
+  margin: 0 1rem;
+  padding: 0.5rem;
+  transition: all 0.3s ease;
+}
+
+nav a:hover {
+  color: #ffcc00;
+  border-bottom: 1px solid #ffcc00;
+}
+
+nav a.attivo {
+  font-weight: bold;
+  color: #ffcc00;
+  border-bottom: 2px solid #ffcc00;
+}
+
+main {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+footer {
+  background-color: #111;
+  color: #aaa;
+  text-align: center;
+  padding: 1rem;
+  border-top: 2px solid #333;
+  font-size: 0.9em;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  background-color: #2b2b2b;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+form input,
+form textarea {
+  padding: 0.5rem;
+  border: none;
+  border-radius: 3px;
+}
+
+form button {
+  background-color: #ffcc00;
+  color: #000;
+  padding: 0.7rem;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 3px;
+}
+
+form button:hover {
+  background-color: #e6b800;
+}

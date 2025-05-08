@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>L'ora del Wrestling – 4 Anni di Successi</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background: #1e1e1e; color: #f5f5f5; }
+    h1, h2 { color: #ffcc00; }
+    a { color: #00bfff; text-decoration: none; }
+    .highlight { background-color: #333; padding: 10px; border-radius: 8px; margin-bottom: 20px; }
+  </style>
+</head>
+<body>
+
+  <h1>🎙️ L'ora del Wrestling – 4 Anni di Passione e Lotta</h1>
+
+  <p><strong>L'ora del Wrestling</strong> nasce nel <strong>2020</strong> come talk show settimanale su <strong>YouTube</strong>, diventando presto un punto fermo per i fan italiani grazie a <strong>interviste esclusive a wrestler italiani</strong> e <strong>speciali su WWE, AEW e TNA</strong>.</p>
+
+  <p>In 4 anni, il format si è evoluto in un vero e proprio <em>hub mediatico</em> del wrestling italiano, con centinaia di episodi pubblicati su Spotify, Apple Podcasts e YouTube. Una voce indipendente, senza peli sulla lingua, guidata dal carisma di <strong>Pino Fasciano</strong> e dalla passione di <strong>Vincenzo Canciello</strong>.</p>
+
+  <h2>🔥 Top 10 Episodi di Sempre</h2>
+
+  <div class="highlight">
+    <ol>
+      <li><strong>Wrestling Pulse Special – Q&A con i fan</strong> (St.1 Ep.18) – Vincenzo Canciello risponde alle domande vere del pubblico.</li>
+      <li><strong>Ospite: Zaffiro</strong> (St.5 Ep.14) – Giovane promessa racconta il backstage del wrestling nostrano.</li>
+      <li><strong>AEW/TNA Deep Dive</strong> (St.2 Ep.19) – Analisi tecniche e fuoco sacro sul wrestling americano.</li>
+      <li><strong>Jimmy Barbaro & Sebastian DeWitt</strong> (St.5 Ep.25) – Fondatori HERO Pro! Wrestling si confessano.</li>
+      <li><strong>Dark Rider</strong> (St.5 Ep.24) – Il lato oscuro del ring italiano.</li>
+      <li><strong>JD Reckless</strong> (St.4 Ep.14) – Vita, sangue e sudore sul ring.</li>
+      <li><strong>Steven Strike</strong> (St.5 Ep.11) – Dal team Brutal Strike alla gloria MWF/Wiva.</li>
+      <li><strong>Ursus</strong> (St.5 Ep.10) – La bestia del wrestling si racconta.</li>
+      <li><strong>Violenzo</strong> (St.4 Ep.22) – Il wrestler più controverso parla a cuore aperto.</li>
+      <li><strong>Alex Crimi</strong> (St.6 Ep.2) – L’arte di essere sé stessi sul ring.</li>
+    </ol>
+  </div>
+
+  <h2>📈 Evoluzione e Impatto (2020–2024)</h2>
+
+  <p>Iniziato in piena pandemia, <strong>L’ora del Wrestling</strong> ha dato voce a una scena troppo spesso ignorata: quella del wrestling italiano. Con format settimanali, rubriche come <em>“Il Direttore Risponde”</em> e <em>“Wrestling Pulse”</em>, ha creato uno spazio per dibattito, informazione e intrattenimento reale, senza censura.</p>
+
+  <p>La crescita è stata costante: dalle interviste amatoriali su YouTube agli episodi professionali su <a href="https://open.spotify.com/show/19bXaT5d1SKHYhxSAIkgyR" target="_blank">Spotify</a> e <a href="https://podcasts.apple.com/us/podcast/lora-del-wrestling-presenta/id1643539343" target="_blank">Apple Podcasts</a>. Un progetto indipendente che ha avuto il coraggio di portare il wrestling italiano sotto i riflettori, senza filtri e senza compromessi.</p>
+
+  <h2>📌 Ascolta e Segui</h2>
+  <ul>
+    <li><a href="https://open.spotify.com/show/19bXaT5d1SKHYhxSAIkgyR" target="_blank">Spotify</a></li>
+    <li><a href="https://podcasts.apple.com/us/podcast/lora-del-wrestling-presenta/id1643539343" target="_blank">Apple Podcasts</a></li>
+    <li><a href="https://www.youtube.com/channel/UCpT9e-A6dSeSuRO370EwkdA" target="_blank">YouTube</a></li>
+  </ul>
+
+  <p><em>"Lotta, parola, microfono. L’ora del Wrestling è il ring della verità."</em></p>
+
+</body>
+</html>
